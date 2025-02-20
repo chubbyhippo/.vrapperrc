@@ -1,3 +1,7 @@
+set ignorecase
+set smartcase
+set incsearch
+
 let mapleader = " "
 imap jj <Esc>
 nmap <leader>ap :eclipse ui.project.explorer<CR>
