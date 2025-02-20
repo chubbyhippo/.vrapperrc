@@ -1,6 +1,5 @@
 set number
 
-
 let mapleader = " "
 imap jj <Esc>
 nmap <leader>ap :eclipse ui.project.explorer<CR>
